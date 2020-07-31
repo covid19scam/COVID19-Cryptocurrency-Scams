@@ -7,7 +7,7 @@ For each type of scams, we further investigated the tricks and social engineerin
 
 ### About the Dataset
 
-There are 195 scam cases in the dataset in total, which correlate with 201 scam blockchain addresses, 57 scam domains, 14 crypto malware, 47 social accounts and 91 coronavirus-related tokens. You can click [here]() to check this dataset or [download]() the dataset.
+There are 195 scam cases in the dataset in total, which correlate with 201 scam blockchain addresses, 57 scam domains, 14 crypto malware, 47 social accounts and 91 coronavirus-related tokens. You can click [here](https://github.com/covid19scam/covid19scam.github.io/blob/master/covid19_crypto_scams.html) to check this dataset or [download](https://github.com/covid19scam/covid19scam.github.io/blob/master/covid19_crypto_scams.xlsx) the dataset.
 
 If you use our dataset in your research, please cite our paper: [https://arxiv.org/abs/2007.13639](https://arxiv.org/abs/2007.13639)
 ```
